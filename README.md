@@ -1,1 +1,1 @@
-# lrlgames.guthub.io
+# lrlgames.github.io
